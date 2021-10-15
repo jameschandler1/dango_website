@@ -1,0 +1,18 @@
+body {
+    background-color: #ffe3e3;
+    color: #ff8080;
+    min-height: 100vh;
+    font-family: monospace;
+  }
+  
+  h1,
+  h2,
+  h3 {
+    color: #ff4949;
+  }
+  
+  .title {
+    color: #ff420898;
+  }
+
+  
